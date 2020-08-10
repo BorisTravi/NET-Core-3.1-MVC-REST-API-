@@ -12,4 +12,3 @@ dotnet add package Microsoft.EntityFrame
 
 Se acondiciono swagger para tener un mejor control de la api.
 
-https://github.com/BorisTravi/NET-Core-3.1-MVC-REST-API-/commit/b9139d41a76121f9080ad1ada89efeaa54f7dbf8#diff-45108c8ae31c75954d6dee758908a2f6
